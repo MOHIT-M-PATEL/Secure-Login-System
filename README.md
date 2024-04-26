@@ -1,14 +1,15 @@
-# Secure Login System
+# MERN Session Management
 
-It is a web application built using the MERN (MongoDB, Express.js, React.js, Node.js) stack. It provides secure user authentication.
+MERN-Session-Management is a web application built using the MERN (MongoDB, Express.js, React.js, Node.js) stack. It provides user authentication and session management functionalities.
 
 ## Introduction
 
-It is designed to provide secure user login by using hashing for password encryption on MongoDB database. It uses routing for travelling through different pages, ie., Signup and Login pages.  
+MERN-Session-Management is designed to offer a robust solution for user authentication and session management in web applications. With features like signup, login, and session tracking, it provides a secure and seamless user experience. This project aims to simplify the implementation of user authentication and session management in MERN stack applications.
 
 ## Features
 
 - User authentication system with login and signup functionality.
+- Welcome page displaying user information after successful login.
 - Simple and clean user interface using Material-UI components.
 - Integration with a backend API for authentication.
 
@@ -17,13 +18,13 @@ It is designed to provide secure user login by using hashing for password encryp
 1. Clone the repository:
 
     ```
-    https://github.com/MOHIT-M-PATEL/Secure-Login-System.git
+    git clone https://github.com/o-Erebus/MERN-Session-Management.git
     ```
 
 2. Navigate into the project directory:
 
     ```
-    cd Secure-Login-System
+    cd MERN-Session-Management
     ```
 
 3. Install dependencies:
